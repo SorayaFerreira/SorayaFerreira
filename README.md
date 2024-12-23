@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 🌼
 
-<!--
-**SorayaFerreira/SorayaFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const soraya = {
+    name: "Soraya Dias Ferreira",
+    location: "Brazil 🇧🇷",
+    role: "Software engineering intern @ cento 👩‍💻",
+    education: "Bachelor of Software Engineering @ UFMS 🎓",
+    funFact: "I'm obsessed with classical literature",
+    contact: {
+        linkedin: "in/soraya-dias-ferreira-68b52923a",
+    },
+};
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
