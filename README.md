@@ -14,3 +14,11 @@ const soraya = {
 };
 ```
 
+### GitHub Stats
+![SorayaFerreira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SorayaFerreira&show_icons=true&theme=dracula)
+
+### Contact Me
+- 📩**Email:** [sorayaferreira00123@gmail.com](mailto:sorayaferreira00123@gmail.com)
+- 🔗🟦**LinkedIn:** [Soraya Dias Ferreira](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/)
+
+
