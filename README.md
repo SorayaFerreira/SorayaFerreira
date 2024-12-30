@@ -19,6 +19,6 @@ const soraya = {
 
 ### Contact Me
 - 📩**Email:** [sorayaferreira00123@gmail.com](mailto:sorayaferreira00123@gmail.com)
-- 🔗🟦**LinkedIn:** [Soraya Dias Ferreira](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/)
+- 🔗**LinkedIn:** [my linkedIn profile](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/)
 
 
