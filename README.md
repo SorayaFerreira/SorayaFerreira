@@ -16,10 +16,9 @@ const soraya = {
 
 
 ### GitHub Stats:
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 <div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SorayaFerreira&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SorayaFerreira&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github" style="height: 200px;"/>
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaFerreira&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" style="height: 200px;"/>
 </div>
 
 ### 💻 Tech Stack:
