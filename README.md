@@ -4,7 +4,7 @@
 const soraya = {
     name: "Soraya Dias Ferreira",
     location: "Brazil 🟩🟨",
-    role: "Software engineering trainee @ cento 👩‍💻",
+    role: "Software engineering trainee @ Cento Software 👩‍💻",
     education: "Bachelor of Software Engineering @ UFMS 🎓",
     funFact: "I'm obsessed with classical literature 📖",
     a_sentence: "Success depends on the number of failures you are able to endure",
