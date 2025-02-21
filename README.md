@@ -31,4 +31,9 @@ const soraya = {
 ### Contact Me
 - 🔗**LinkedIn:** [my linkedIn profile](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/)
 
+<div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SorayaFerreira&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayaFerreira&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+</div>
+
 
