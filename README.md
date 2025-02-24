@@ -13,7 +13,7 @@ const soraya = {
 
     funFact: "I'm obsessed with classical literature 📖",
 
-    a_sentence: "Success depends on the number of failures you are able to endure",
+    aSentence: "Success depends on the number of failures you are able to endure.",
 };
 ```
 ### Contact Me
