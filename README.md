@@ -17,7 +17,9 @@ const soraya = {
 };
 ```
 ### 🌐 Let's Connect
-🔗[**LinkedIn profile**](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/) 
+🔗[LinkedIn profile](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/) 
+
+---
 
 <div style={{ display: "flex", justifyContent: "center", alignItems: "stretch", width: "100%" }}>
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SorayaFerreira&include_all_commits=true&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github">
