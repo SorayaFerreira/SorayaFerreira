@@ -1,9 +1,8 @@
 # Hi there!💐🌷
 
-<span align="left" width="100">
+<div align="left" width="100">
     <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img align="right" src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/> 
-</span>
+</div>
 
 
 ```javascript
@@ -21,6 +20,10 @@ const soraya = {
     aSentence: "Success depends on the number of failures you are able to endure.",
 };
 ```
+<div align="right" width="100">
+    <img align="right" src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/> 
+</div>
+
 ### 🌐 Let's Connect!
 [My LinkedIn profile](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/) 🔗 
 
