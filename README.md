@@ -22,7 +22,7 @@ const soraya = {
 ```
 
 ### 🌐 Let's Connect!
-[My LinkedIn profile](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/) 🔗 
+[Access my LinkedIn profile here.](https://www.linkedin.com/in/soraya-dias-ferreira-68b52923a/) 🔗 
 
 ---
 
@@ -37,4 +37,10 @@ const soraya = {
 <div align="right" width="100">
     <img align="left" src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/> 
 </div>
+
+
+---
+![snake gif](https://github.com/SorayaFerreira/SorayaFerreira/blob/output/github-snake-dark.svg)
+---
+
 
