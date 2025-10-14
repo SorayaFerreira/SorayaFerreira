@@ -38,11 +38,8 @@ const soraya = {
     <img align="left" src="https://cultofthepartyparrot.com/guests/hd/partyblob.gif" width="30" height="30"/> 
 </div>
 
-<!--
----
-![snake gif](https://github.com/SorayaFerreira/SorayaFerreira/blob/output/github-snake-dark.svg)
 ---
 
--->
+![github contribution snake](https://github.com/SorayaFerreira/SorayaFerreira/raw/gh-pages/github-contribution-grid-snake.svg)
 
 
