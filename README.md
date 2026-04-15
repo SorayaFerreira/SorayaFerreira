@@ -11,7 +11,7 @@ const soraya = {
 
     location: "Brazil 🟩🟨",
 
-    role: "Software engineering trainee @ Cento Software 👩‍💻",
+    role: "Software engineering trainee @ Tarken 👩‍💻",
 
     education: "Bachelor of Software Engineering @ UFMS 🎓",
 
